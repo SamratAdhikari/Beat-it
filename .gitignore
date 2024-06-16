@@ -1,3 +1,6 @@
 .ipynb_checkpoints/
 .jovianrc
 venv
+assets/dataset
+assets/data.json
+
